@@ -1,5 +1,5 @@
 import React from 'react'
-import kabras from '../img/kabra 123-01.jpg'
+import kabras from '../assets/img/kabra 123-01.jpg'
 
 const Home = () => {
   return (
